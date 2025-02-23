@@ -1,0 +1,14 @@
+ul{
+    display: flex;
+    justify-content: center;
+    border: 1px solid red;
+}
+li{
+    display: block;
+    float: left;
+    padding: 0 20px;
+}
+
+li a{
+    font-size: 36px;
+}
